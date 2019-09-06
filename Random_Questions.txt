@@ -3,6 +3,11 @@ A : Recursion is the process of defining something in terms of itself.
     A physical world example would be to place two parallel mirrors facing each other.
     Any object in between them would be reflected recursively.
     (https://www.programiz.com/python-programming/recursion)
+    
+    Recursion is a method of programming or coding a problem, in which a function calls itself one or more times in its body.     Usually, it is returning the return value of this function call.
+    If a function definition satisfies the condition of recursion, we call this function a recursive function.
+    (https://www.python-course.eu/python3_recursive_functions.php)
+
 
 
 
