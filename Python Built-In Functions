@@ -1,0 +1,515 @@
+Built-in Functions
+
+Title
+Description
+Python abs()
+returns absolute value of a number
+Python any()
+Checks if any Element of an Iterable is True
+Python all()
+returns true when all elements in iterable is true
+Python ascii()
+Returns String Containing Printable Representation
+Python bin()
+converts integer to binary string
+Python bool()
+Converts a Value to Boolean
+Python bytearray()
+returns array of given byte size
+Python callable()
+Checks if the Object is Callable
+Python bytes()
+returns immutable bytes object
+Python chr()
+Returns a Character (a string) from an Integer
+Python compile()
+Returns a Python code object
+Python classmethod()
+returns class method for given function
+Python complex()
+Creates a Complex Number
+Python delattr()
+Deletes Attribute From the Object
+Python dict()
+Creates a Dictionary
+Python dir()
+Tries to Return Attributes of Object
+Python divmod()
+Returns a Tuple of Quotient and Remainder
+Python enumerate()
+Returns an Enumerate Object
+Python staticmethod()
+creates static method from a function
+Python filter()
+constructs iterator from elements which are true
+Python eval()
+Runs Python Code Within Program
+Python float()
+returns floating point number from number, string
+Python format()
+returns formatted representation of a value
+Python frozenset()
+returns immutable frozenset object
+Python getattr()
+returns value of named attribute of an object
+Python globals()
+returns dictionary of current global symbol table
+Python exec()
+Executes Dynamically Created Program
+Python hasattr()
+returns whether object has named attribute
+Python help()
+Invokes the built-in Help System
+Python hex()
+Converts to Integer to Hexadecimal
+Python hash()
+returns hash value of an object
+Python input()
+reads and returns a line of string
+Python id()
+Returns Identify of an Object
+Python isinstance()
+Checks if a Object is an Instance of Class
+Python int()
+returns integer from a number or string
+Python issubclass()
+Checks if a Object is Subclass of a Class
+Python iter()
+returns iterator for an object
+Python list() Function
+creates list in Python
+Python locals()
+Returns dictionary of a current local symbol table
+Python len()
+Returns Length of an Object
+Python max()
+returns largest element
+Python min()
+returns smallest element
+Python map()
+Applies Function and Returns a List
+Python next()
+Retrieves Next Element from Iterator
+Python memoryview()
+returns memory view of an argument
+Python object()
+Creates a Featureless Object
+Python oct()
+converts integer to octal
+Python ord()
+returns Unicode code point for Unicode character
+Python open()
+Returns a File object
+Python pow()
+returns x to the power of y
+Python print()
+Prints the Given Object
+Python property()
+returns a property attribute
+Python range()
+return sequence of integers between start and stop
+Python repr()
+returns printable representation of an object
+Python reversed()
+returns reversed iterator of a sequence
+Python round()
+rounds a floating point number to ndigits places.
+Python set()
+returns a Python set
+Python setattr()
+sets value of an attribute of object
+Python slice()
+creates a slice object specified by range()
+Python sorted()
+returns sorted list from a given iterable
+Python str()
+returns informal representation of an object
+Python sum()
+Add items of an Iterable
+Python tuple() Function
+Creates a Tuple
+Python type()
+Returns Type of an Object
+Python vars()
+Returns __dict__ attribute of a class
+Python zip()
+Returns an Iterator of Tuples
+Python __import__()
+Advanced Function Called by import
+Python super()
+Allow you to Refer Parent Class by super
+
+Dictionary Methods
+
+Title
+Description
+Python Dictionary clear()
+Removes all Items
+Python Dictionary copy()
+Returns Shallow Copy of a Dictionary
+Python Dictionary fromkeys()
+creates dictionary from given sequence
+Python Dictionary get()
+Returns Value of The Key
+Python Dictionary items()
+returns view of dictionary's (key, value) pair
+Python Dictionary keys()
+Returns View Object of All Keys
+Python Dictionary popitem()
+Returns & Removes Element From Dictionary
+Python Dictionary setdefault()
+Inserts Key With a Value if Key is not Present
+Python Dictionary pop()
+removes and returns element having given key
+Python Dictionary values()
+returns view of all values in dictionary
+Python Dictionary update()
+Updates the Dictionary
+Python any()
+Checks if any Element of an Iterable is True
+Python all()
+returns true when all elements in iterable is true
+Python ascii()
+Returns String Containing Printable Representation
+Python bool()
+Converts a Value to Boolean
+Python dict()
+Creates a Dictionary
+Python enumerate()
+Returns an Enumerate Object
+Python filter()
+constructs iterator from elements which are true
+Python iter()
+returns iterator for an object
+Python len()
+Returns Length of an Object
+Python max()
+returns largest element
+Python min()
+returns smallest element
+Python map()
+Applies Function and Returns a List
+Python sorted()
+returns sorted list from a given iterable
+Python sum()
+Add items of an Iterable
+Python zip()
+Returns an Iterator of Tuples
+
+List Methods
+
+Title
+Description
+Python List append()
+Add Single Element to The List
+Python List extend()
+Add Elements of a List to Another List
+Python List insert()
+Inserts Element to The List
+Python List remove()
+Removes Element from the List
+Python List index()
+returns smallest index of element in list
+Python List count()
+returns occurrences of element in a list
+Python List pop()
+Removes Element at Given Index
+Python List reverse()
+Reverses a List
+Python List sort()
+sorts elements of a list
+Python List copy()
+Returns Shallow Copy of a List
+Python List clear()
+Removes all Items from the List
+Python any()
+Checks if any Element of an Iterable is True
+Python all()
+returns true when all elements in iterable is true
+Python ascii()
+Returns String Containing Printable Representation
+Python bool()
+Converts a Value to Boolean
+Python enumerate()
+Returns an Enumerate Object
+Python filter()
+constructs iterator from elements which are true
+Python iter()
+returns iterator for an object
+Python list() Function
+creates list in Python
+Python len()
+Returns Length of an Object
+Python max()
+returns largest element
+Python min()
+returns smallest element
+Python map()
+Applies Function and Returns a List
+Python reversed()
+returns reversed iterator of a sequence
+Python slice()
+creates a slice object specified by range()
+Python sorted()
+returns sorted list from a given iterable
+Python sum()
+Add items of an Iterable
+Python zip()
+Returns an Iterator of Tuples
+
+Set Methods
+
+Title
+Description
+Python Set remove()
+Removes Element from the Set
+Python Set add()
+adds element to a set
+Python Set copy()
+Returns Shallow Copy of a Set
+Python Set clear()
+remove all elements from a set
+Python Set difference()
+Returns Difference of Two Sets
+Python Set difference_update()
+Updates Calling Set With Intersection of Sets
+Python Set discard()
+Removes an Element from The Set
+Python Set intersection()
+Returns Intersection of Two or More Sets
+Python Set intersection_update()
+Updates Calling Set With Intersection of Sets
+Python Set isdisjoint()
+Checks Disjoint Sets
+Python Set issubset()
+Checks if a Set is Subset of Another Set
+Python Set issuperset()
+Checks if a Set is Superset of Another Set
+Python Set pop()
+Removes an Arbitrary Element
+Python Set symmetric_difference()
+Returns Symmetric Difference
+Python Set symmetric_difference_update()
+Updates Set With Symmetric Difference
+Python Set union()
+Returns Union of Sets
+Python Set update()
+Add Elements to The Set.
+Python any()
+Checks if any Element of an Iterable is True
+Python all()
+returns true when all elements in iterable is true
+Python ascii()
+Returns String Containing Printable Representation
+Python bool()
+Converts a Value to Boolean
+Python enumerate()
+Returns an Enumerate Object
+Python filter()
+constructs iterator from elements which are true
+Python frozenset()
+returns immutable frozenset object
+Python iter()
+returns iterator for an object
+Python len()
+Returns Length of an Object
+Python max()
+returns largest element
+Python min()
+returns smallest element
+Python map()
+Applies Function and Returns a List
+Python set()
+returns a Python set
+Python sorted()
+returns sorted list from a given iterable
+Python sum()
+Add items of an Iterable
+Python zip()
+Returns an Iterator of Tuples
+
+String Methods
+
+Title
+Description
+Python String capitalize()
+Converts first character to Capital Letter
+Python String center()
+Pads string with specified character
+Python String casefold()
+converts to casefolded strings
+Python String count()
+returns occurrences of substring in string
+Python String endswith()
+Checks if String Ends with the Specified Suffix
+Python String expandtabs()
+Replaces Tab character With Spaces
+Python String encode()
+returns encoded string of given string
+Python String find()
+Returns the index of first occurrence of substring
+Python String format()
+formats string into nicer output
+Python String index()
+Returns Index of Substring
+Python String isalnum()
+Checks Alphanumeric Character
+Python String isalpha()
+Checks if All Characters are Alphabets
+Python String isdecimal()
+Checks Decimal Characters
+Python String isdigit()
+Checks Digit Characters
+Python String isidentifier()
+Checks for Valid Identifier
+Python String islower()
+Checks if all Alphabets in a String are Lowercase
+Python String isnumeric()
+Checks Numeric Characters
+Python String isprintable()
+Checks Printable Character
+Python String isspace()
+Checks Whitespace Characters
+Python String istitle()
+Checks for Titlecased String
+Python String isupper()
+returns if all characters are uppercase characters
+Python String join()
+Returns a Concatenated String
+Python String ljust()
+returns left-justified string of given width
+Python String rjust()
+returns right-justified string of given width
+Python String lower()
+returns lowercased string
+Python String upper()
+returns uppercased string
+Python String swapcase()
+swap uppercase characters to lowercase; vice versa
+Python String lstrip()
+Removes Leading Characters
+Python String rstrip()
+Removes Trailing Characters
+Python String strip()
+Removes Both Leading and Trailing Characters
+Python String partition()
+Returns a Tuple
+Python String maketrans()
+returns a translation table
+Python String rpartition()
+Returns a Tuple
+Python String translate()
+returns mapped charactered string
+Python String replace()
+Replaces Substring Inside
+Python String rfind()
+Returns the Highest Index of Substring
+Python String rindex()
+Returns Highest Index of Substring
+Python String split()
+Splits String from Left
+Python String rsplit()
+Splits String From Right
+Python String splitlines()
+Splits String at Line Boundaries
+Python String startswith()
+Checks if String Starts with the Specified String
+Python String title()
+Returns a Title Cased String
+Python String zfill()
+Returns a Copy of The String Padded With Zeros
+Python String format_map()
+Formats the String Using Dictionary
+Python any()
+Checks if any Element of an Iterable is True
+Python all()
+returns true when all elements in iterable is true
+Python ascii()
+Returns String Containing Printable Representation
+Python bool()
+Converts a Value to Boolean
+Python bytearray()
+returns array of given byte size
+Python bytes()
+returns immutable bytes object
+Python compile()
+Returns a Python code object
+Python complex()
+Creates a Complex Number
+Python enumerate()
+Returns an Enumerate Object
+Python filter()
+constructs iterator from elements which are true
+Python float()
+returns floating point number from number, string
+Python input()
+reads and returns a line of string
+Python int()
+returns integer from a number or string
+Python iter()
+returns iterator for an object
+Python len()
+Returns Length of an Object
+Python max()
+returns largest element
+Python min()
+returns smallest element
+Python map()
+Applies Function and Returns a List
+Python ord()
+returns Unicode code point for Unicode character
+Python reversed()
+returns reversed iterator of a sequence
+Python slice()
+creates a slice object specified by range()
+Python sorted()
+returns sorted list from a given iterable
+Python sum()
+Add items of an Iterable
+Python zip()
+Returns an Iterator of Tuples
+
+Tuple Methods
+
+Title
+Description
+Python Tuple count()
+returns occurrences of element in a tuple
+Python Tuple index()
+returns smallest index of element in tuple
+Python any()
+Checks if any Element of an Iterable is True
+Python all()
+returns true when all elements in iterable is true
+Python ascii()
+Returns String Containing Printable Representation
+Python bool()
+Converts a Value to Boolean
+Python enumerate()
+Returns an Enumerate Object
+Python filter()
+constructs iterator from elements which are true
+Python iter()
+returns iterator for an object
+Python len()
+Returns Length of an Object
+Python max()
+returns largest element
+Python min()
+returns smallest element
+Python map()
+Applies Function and Returns a List
+Python reversed()
+returns reversed iterator of a sequence
+Python slice()
+creates a slice object specified by range()
+Python sorted()
+returns sorted list from a given iterable
+Python sum()
+Add items of an Iterable
+Python tuple() Function
+Creates a Tuple
+Python zip()
+Returns an Iterator of Tuples
+
+
