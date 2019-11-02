@@ -8,6 +8,11 @@ A : Recursion is the process of defining something in terms of itself.
     If a function definition satisfies the condition of recursion, we call this function a recursive function.
     (https://www.python-course.eu/python3_recursive_functions.php)
 
+Q : In Python 3, the maximum value for an integer is 2^63 - 1?
+A : False, In Python 2, there was an internal limit to how large an integer value could be. But that limit was removed in         Python 3.
+    This means there is no explicitly defined limit, but the amount of available address space forms a practical limit             depending on the machine Python runs on.
+
+
 
 
 
